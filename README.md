@@ -1,7 +1,8 @@
 # The Last Maya
 <br/>
-1) Right-Click on the "0-1-1.zip" file here in the repository and download it<br/>
-2) Extract all the files from the ZIP in the folder of your choice<br/>
+1) Double-click on the "0-1-1.zip" file here in the repository 
+2) Double-click on the "Download raw file" icon on your right<br/>
+3) Go to File Explorer in your PC and in "Downloads" folder extract all the files from the ZIP to the directory of your choice<br/>
 4) In the final folder, double-click on "TheLastMaya.exe" file to launch the game.<br/>
 <br/><br/>
 <br/>
